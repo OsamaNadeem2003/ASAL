@@ -1,8 +1,8 @@
-import UserList from "./components/Users/UsersList";
+import UsersList from "./components/Users/user-list/UsersList";
 function App() {
   return (
     <div>
-      <UserList />
+      <UsersList />
     </div>
   );
 }

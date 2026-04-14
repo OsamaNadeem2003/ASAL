@@ -1,8 +1,8 @@
-import UserList from "./components/task_abi/UserList";
+import UsersList from "./components/Users/user-list/UsersList";
 function App() {
   return (
     <div>
-      <UserList />
+      <UsersList />
     </div>
   );
 }
